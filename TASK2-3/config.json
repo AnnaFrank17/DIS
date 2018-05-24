@@ -1,0 +1,16 @@
+{
+  "db_central": {
+    "name": "dislab_02_central"
+  },
+  "db_client1": {
+    "name": "dislab_02_client1"
+  },
+  "db_client2": {
+    "name": "dislab_02_client2"
+  },
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "\"secret\""
+  }
+}
